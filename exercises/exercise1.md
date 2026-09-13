@@ -6,4 +6,4 @@ Create three columns.
 - In the third column, display a list showing the numbers of male and female penguins.
 
 Your output should look like
-![solution](exercise_sol.png)
+![solution](exercise1_sol.png)
