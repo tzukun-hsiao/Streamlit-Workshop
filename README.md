@@ -1,4 +1,4 @@
 # Streamlit-Workshop
 
 2026-Fall
-- Link to this repository: http://tiny.cc/eh-streamlit-template
+- Link to the Streamlit template: http://tiny.cc/eh-streamlit-template
