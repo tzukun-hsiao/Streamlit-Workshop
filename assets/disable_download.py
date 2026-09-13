@@ -1,7 +1,7 @@
 import streamlit as st
 
 
-def hide_toolbar(key):
+def hide_toolbar(container_key: str):
     st.markdown(
         f"""
         <style>
